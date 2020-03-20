@@ -35,4 +35,4 @@ python xtractor.py
 - Contributions of any kind welcome!
 
 ## License
-GPL-3.0 ©sameera-madushan
+GPL-3.0 ©[sameera-madushan](https://github.com/sameera-madushan)
