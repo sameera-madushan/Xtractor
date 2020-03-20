@@ -27,3 +27,12 @@ $ pip3 install -r requirements.txt
 ## Usage
 ```
 python xtractor.py
+
+```
+
+### Support & Contributions
+- Please ⭐️ this repository if this project helped you!
+- Contributions of any kind welcome!
+
+## License
+GPL-3.0 ©sameera-madushan
