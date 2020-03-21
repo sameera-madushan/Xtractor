@@ -1,4 +1,6 @@
+import msvcrt as x
 import requests
+import time
 import re
 
 banner = r'''
@@ -62,5 +64,11 @@ try:
 
 except KeyboardInterrupt:
     print('\nProgramme Interrupted')
+  
+print("\nPress any key to exit")
+x.getch()
+print("Exiting...")
+time.sleep(1)
+  
             
 
