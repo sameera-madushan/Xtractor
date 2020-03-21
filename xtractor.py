@@ -1,4 +1,4 @@
-import msvcrt as x
+import msvcrt as m
 import requests
 import time
 import re
@@ -66,7 +66,7 @@ except KeyboardInterrupt:
     print('\nProgramme Interrupted')
   
 print("\nPress any key to exit")
-x.getch()
+m.getch()
 print("Exiting...")
 time.sleep(1)
   
