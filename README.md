@@ -29,6 +29,9 @@ $ cd Xtractor
 # install the requirements
 $ pip3 install -r requirements.txt
 ```
+
+> You can also download the compiled version from [Releases tab](https://github.com/sameera-madushan/Xtractor/releases)
+
 ## Usage
 ```
 python xtractor.py
