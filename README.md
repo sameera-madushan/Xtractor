@@ -18,7 +18,7 @@ This script will crawl and extract the relavent download links based on the user
 
 **Click [here](https://drive.google.com/open?id=1Cm7sI3zwwHZSBfouaTiBcX2LQZQquw5_) to watch Xtractor in action.**
 
-### Git Installation
+## Git Installation
 ```
 # clone the repo
 $ git clone https://github.com/sameera-madushan/Xtractor.git
@@ -38,7 +38,7 @@ python xtractor.py
 
 ```
 
-### Support & Contributions
+## Support & Contributions
 - Please ⭐️ this repository if this project helped you!
 - Contributions of any kind welcome!
 
