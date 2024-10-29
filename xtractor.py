@@ -17,7 +17,7 @@ ____  ___ __                        __
 print(banner)
 
 url = input("Enter the URL of tv series: ")
-x = re.match(r'^(http:|)[/][/]www.([^/]+[.])*todaytvseries2.com', url)
+x = re.match(r'^(https:|)[/][/]www.([^/]+[.])*todaytvseries6.com', url)
 
 try:
     if x:
