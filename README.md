@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/55880211/78421301-16431380-7674-11ea-9542-42a0ba97c6bf.png">
 </p>
 
-Xtractor is a simple script written in python to extract the download links of your favorite TV show from [todaytvseries2.com](http://www.todaytvseries2.com/) by skipping annoying link shorteners. 
+Xtractor is a simple script written in python to extract the download links of your favorite TV show from [todaytvseries6.com](https://www.todaytvseries6.com/) by skipping annoying link shorteners. 
 
 This script will crawl and extract the relavent download links based on the user selections and store them in a text file called "links.txt". Later on you can import this text file which containing the download links into your favourite download manager and begin downlading your shows.
 
