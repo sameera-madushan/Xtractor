@@ -1,3 +1,7 @@
+> ⚠️ **Archived Repository**  
+> This repository has been archived and is no longer maintained.  
+> Feel free to browse the code, but note that no further updates or support will be provided.
+
 # Xtractor
 
 <p align="center">
